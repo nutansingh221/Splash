@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "814470629165",
+    "project_id": "splashchatapp-cddba",
+    "storage_bucket": "splashchatapp-cddba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814470629165:android:8707c2a993a05e0c44f5a4",
+        "android_client_info": {
+          "package_name": "com.example.splash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "814470629165-8jmlainktbagk0eo2m4uk9k5te9r8bqo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7Xcfm6nBP4vcmPiu0E_MkBdxWIWxk0KE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "814470629165-8jmlainktbagk0eo2m4uk9k5te9r8bqo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
